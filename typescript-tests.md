@@ -64,7 +64,7 @@ Qaysi holatlarda generiklar ishlatiladi?
 
 `keyof` operatori nima vazifani bajaradi?
 
-- B) Obyektning kalitlaridan iborat union tipni qaytaradi
+- B) Obyektning kalitlaridan iborat union tipni qaytarad
 
 ## Test 12
 
