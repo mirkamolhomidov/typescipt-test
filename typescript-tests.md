@@ -70,7 +70,7 @@ Qaysi holatlarda generiklar ishlatiladi?
 
 Union tiplar (`|`) va Intersection tiplar (`&`) orasidagi farq nima?
 
-- A) Union bir nechta tiplardan birini, Intersection barcha tiplarning kombinatsiyasini bildiradi
+- A) Union bir nechta tiplardan birini, Intersection barcha tiplarning kombinatsiyasini bildirad
 
 ## Test 13
 
